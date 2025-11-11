@@ -7,7 +7,7 @@ function Home() {
   return (
     <div>
       <h2 style={{ color: 'hsla(249, 42%, 38%, 1.00)',display: 'flex',justifyContent: 'center',marginTop: '180px',fontSize:'40px'}}>Employee Management System</h2>
-      <h4 style={{ color: 'white',marginTop:'100px',fontSize:'20px',width:"80%", textAlign:"center", marginLeft:"auto", marginRight:"auto"}}>Redefine the employee experience with a streamlined and secure HR software that helps manage your global workforce seamlessly, from adding and maintaining employee records to assisting team members with their daily HR work, all while ensuring compliance.</h4>
+      <h4 style={{marginTop:'100px',fontSize:'20px',width:"80%", textAlign:"center", marginLeft:"auto", marginRight:"auto"}}>Redefine the employee experience with a streamlined and secure HR software that helps manage your global workforce seamlessly, from adding and maintaining employee records to assisting team members with their daily HR work, all while ensuring compliance.</h4>
        <Link 
       to="/SignUp"
       style={{
